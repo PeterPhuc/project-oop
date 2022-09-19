@@ -794,7 +794,7 @@ public class MainMenu {
                         System.out.println("11.Quản lý danh sách hóa đơn                                                                             |");
                         System.out.println("0. Thoát                                                                                                 |");
                         System.out.println("==========================================================================================================");
-                        System.out.print("Nhập chức năng (0 - 10): ");
+                        System.out.print("Nhập chức năng (0 - 11): ");
                         
                         
                         
