@@ -1,0 +1,11 @@
+BT1-BUT-but chi-Den-6000.0-900
+BT2-BUT-but chi-Do-7000.0-1000
+BT3-BUT-but chi-Vang-4000.0-500
+BT4-BUT-but bi-Lam-5000.0-500
+BT5-BUT-but bi-Do-5000.0-500
+BT6-BUT-but bi-Den-5000.0-1200
+BT7-BUT-but da-Lam-6000.0-300
+BT8-BUT-but da-Vang-6000.0-500
+BT9-BUT-but da-Luc-6000.0-500
+BT10-BUT-but long-Lam-7000.0-500
+BT11-BUT-but xoa-Trang-7000.0-700
